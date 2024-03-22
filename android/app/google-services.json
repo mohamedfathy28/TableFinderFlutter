@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250975612037",
+    "project_id": "tablefinder-d7f61",
+    "storage_bucket": "tablefinder-d7f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250975612037:android:828befb9c1753099280dec",
+        "android_client_info": {
+          "package_name": "com.tablefinder.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LBeL4drwthIBe0rOg50qotzAq40gso4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250975612037:android:3976825002b7dd20280dec",
+        "android_client_info": {
+          "package_name": "online.tablefinder.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LBeL4drwthIBe0rOg50qotzAq40gso4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,198 @@
+{
+    "success": true,
+    "message": "main.successful",
+    "data": {
+        "id": 86,
+        "restaurant_name": "Qasr ElKbabgi",
+        "restaurant_logo": "2024-01-26-65b3bc4411491.png",
+        "total": "1199.10",
+        "guest": 5,
+        "table_number": null,
+        "status": "New",
+        "order_details": [
+            {
+                "id": 8,
+                "food_id": 569,
+                "order_id": 86,
+                "price": "209.00",
+                "food_details": {
+                    "id": 569,
+                    "name": "Hawawshi",
+                    "description": null,
+                    "image": "2024-01-28-65b59421d16c3.png",
+                    "category_id": 63,
+                    "category_ids": [
+                        {
+                            "id": "63",
+                            "position": 1
+                        }
+                    ],
+                    "variations": [],
+                    "add_ons": [],
+                    "attributes": "[]",
+                    "choice_options": "[]",
+                    "price": 208.55000000000001136868377216160297393798828125,
+                    "tax": 14,
+                    "tax_type": "percent",
+                    "discount": 0,
+                    "discount_type": "percent",
+                    "available_time_starts": "00:00:00",
+                    "available_time_ends": "23:59:00",
+                    "veg": null,
+                    "status": 1,
+                    "restaurant_id": 4,
+                    "created_at": "2024-01-27T23:39:13.000000Z",
+                    "updated_at": "2024-01-28T12:20:01.000000Z",
+                    "order_count": 0,
+                    "avg_rating": 0,
+                    "rating_count": 0,
+                    "recommended": 0,
+                    "slug": "hawawshi",
+                    "maximum_cart_quantity": null,
+                    "restaurant_name": "Qasr ElKbabgi",
+                    "restaurant_status": 1,
+                    "restaurant_discount": 0,
+                    "restaurant_opening_time": "10:00",
+                    "restaurant_closing_time": "23:00",
+                    "schedule_order": false,
+                    "free_delivery": 0,
+                    "min_delivery_time": 0,
+                    "max_delivery_time": 0,
+                    "cuisines": [
+                        {
+                            "id": 6,
+                            "name": "Italian cuisine",
+                            "image": "2023-12-06-65713654ed27c.png"
+                        }
+                    ],
+                    "translations": [
+                        {
+                            "id": 2279,
+                            "translationable_type": "App\\Models\\Food",
+                            "translationable_id": 569,
+                            "locale": "en",
+                            "key": "name",
+                            "value": "Hawawshi",
+                            "created_at": null,
+                            "updated_at": null
+                        },
+                        {
+                            "id": 2280,
+                            "translationable_type": "App\\Models\\Food",
+                            "translationable_id": 569,
+                            "locale": "en",
+                            "key": "description",
+                            "value": null,
+                            "created_at": null,
+                            "updated_at": null
+                        }
+                    ]
+                },
+                "variation": [],
+                "add_ons": [],
+                "discount_on_food": "0.00",
+                "discount_type": "discount_on_product",
+                "quantity": 1,
+                "tax_amount": "29.20",
+                "variant": null,
+                "item_campaign_id": null,
+                "total_add_on_price": "0.00",
+                "deleted_at": null,
+                "created_at": "2024-03-04T16:47:05.000000Z",
+                "updated_at": "2024-03-04T16:47:05.000000Z"
+            },
+            {
+                "id": 9,
+                "food_id": 568,
+                "order_id": 86,
+                "price": "791.00",
+                "food_details": {
+                    "id": 568,
+                    "name": "1/2 Mutton Fillet",
+                    "description": null,
+                    "image": "2024-01-28-65b593d7a03de.png",
+                    "category_id": 63,
+                    "category_ids": [
+                        {
+                            "id": "63",
+                            "position": 1
+                        }
+                    ],
+                    "variations": [],
+                    "add_ons": [],
+                    "attributes": "[]",
+                    "choice_options": "[]",
+                    "price": 790.549999999999954525264911353588104248046875,
+                    "tax": 14,
+                    "tax_type": "percent",
+                    "discount": 0,
+                    "discount_type": "percent",
+                    "available_time_starts": "00:00:00",
+                    "available_time_ends": "23:59:00",
+                    "veg": null,
+                    "status": 1,
+                    "restaurant_id": 4,
+                    "created_at": "2024-01-27T23:37:59.000000Z",
+                    "updated_at": "2024-01-27T23:37:59.000000Z",
+                    "order_count": 0,
+                    "avg_rating": 0,
+                    "rating_count": 0,
+                    "recommended": 0,
+                    "slug": "12-mutton-fillet",
+                    "maximum_cart_quantity": null,
+                    "restaurant_name": "Qasr ElKbabgi",
+                    "restaurant_status": 1,
+                    "restaurant_discount": 0,
+                    "restaurant_opening_time": "10:00",
+                    "restaurant_closing_time": "23:00",
+                    "schedule_order": false,
+                    "free_delivery": 0,
+                    "min_delivery_time": 0,
+                    "max_delivery_time": 0,
+                    "cuisines": [
+                        {
+                            "id": 6,
+                            "name": "Italian cuisine",
+                            "image": "2023-12-06-65713654ed27c.png"
+                        }
+                    ],
+                    "translations": [
+                        {
+                            "id": 2276,
+                            "translationable_type": "App\\Models\\Food",
+                            "translationable_id": 568,
+                            "locale": "en",
+                            "key": "name",
+                            "value": "1/2 Mutton Fillet",
+                            "created_at": null,
+                            "updated_at": null
+                        },
+                        {
+                            "id": 2277,
+                            "translationable_type": "App\\Models\\Food",
+                            "translationable_id": 568,
+                            "locale": "en",
+                            "key": "description",
+                            "value": null,
+                            "created_at": null,
+                            "updated_at": null
+                        }
+                    ]
+                },
+                "variation": [],
+                "add_ons": [],
+                "discount_on_food": "0.00",
+                "discount_type": "discount_on_product",
+                "quantity": 1,
+                "tax_amount": "110.68",
+                "variant": null,
+                "item_campaign_id": null,
+                "total_add_on_price": "0.00",
+                "deleted_at": null,
+                "created_at": "2024-03-04T16:47:05.000000Z",
+                "updated_at": "2024-03-04T16:47:05.000000Z"
+            }
+        ],
+        "can_cancel": true
+    }
+}
